@@ -18,7 +18,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #fff;
+  background-color: #e3fbfd;
   color: #333;
 }
 
@@ -173,7 +173,8 @@ img {
 .btn-danger,
 .bg-danger,
 .badge-danger,
-.alert-danger {
+.alert-danger,
+.alert-info {
   background: var(--danger-color);
   color: #fff;
 }
